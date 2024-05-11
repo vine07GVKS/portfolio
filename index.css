@@ -429,12 +429,12 @@ margin: .3rem 0 1rem;
     width: 5rem;
     height: 5rem;
     background: var(--text-color) ;
-    border-radius: 50%;
+    border-radius:50%;
 }
 
 .portfolio-layer a i 
 {
-    font-size: 2rem;
+    font-size: 3rem;
     color: var(--second-bg-color);
 }
 
